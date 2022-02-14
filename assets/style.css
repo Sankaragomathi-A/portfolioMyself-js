@@ -689,16 +689,11 @@ border-color:3px rgb(232, 4, 4);
        
     }
     .images{
-      margin-bottom: 20%;
+     display: none;
   }
     
     
-  .intro__content {
   
-
-    margin-top: 95%;
-    
-  }
    
    
     
